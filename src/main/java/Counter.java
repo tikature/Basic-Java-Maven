@@ -8,7 +8,7 @@ public class Counter {
 		this.reset();
 	}
 		
-	public void reset() {
+	public void resetzz() {
 		count = 0;
 	}
 	
@@ -16,7 +16,7 @@ public class Counter {
 		count++;
 	}
 	
-	public void decrement() {
+	public void decrementzz() {
 		count--;
 	}
 	
